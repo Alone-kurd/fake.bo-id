@@ -107,41 +107,41 @@ const jano100 = new Discord.Client();
 
 ///////////////////
 jano.on("ready", () => {
-    var join = jano.channels.get("845340642585346088"); /// id voice
+    var join = jano.channels.get("936658070422048819"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano2.on("ready", () => {
-    var join = jano2.channels.get("845340642585346088"); /// id voice
+    var join = jano2.channels.get("936658070422048819"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano3.on("ready", () => {
-    var join = jano3.channels.get("845340642585346088"); /// id voice
+    var join = jano3.channels.get("936658070422048819"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano4.on("ready", () => {
-    var join = jano4.channels.get("845340642585346088"); /// id voice
+    var join = jano4.channels.get("936658070422048819"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano5.on("ready", () => {
-    var join = jano5.channels.get("845340642585346088"); /// id voice
+    var join = jano5.channels.get("936658070422048819"); /// id voice
     if (join) join.join();
   });///////////////////
 jano6.on("ready", () => {
-    var join = jano6.channels.get("845340642585346088"); /// id voice
+    var join = jano6.channels.get("936658070422048819"); /// id voice
     
-    var join = jano6.channels.get("845340642585346088"); /// id voice
+    var join = jano6.channels.get("936658070422048819"); /// id voice
     if (join) join.join();
   });///////////////////
 jano7.on("ready", () => {
-    var join = jano7.channels.get("845340642585346088"); /// id voice
+    var join = jano7.channels.get("936658070422048819"); /// id voice
     if (join) join.join();
   });///////////////////
 jano8.on("ready", () => {
-    var join = jano8.channels.get("845340642585346088"); /// id voice
+    var join = jano8.channels.get("936658070422048819"); /// id voice
     if (join) join.join();
   });///////////////////
 jano9.on("ready", () => {
@@ -2463,9 +2463,9 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
+jano.login("OTI2ODUzNzQ2OTEzMzE2ODc1.YfVMsw.FCNBdNyIf6DLXOHvgKFGQKZ9v4M");
+jano2.login("OTM2OTk3MjYyNDEwODA1MzE5.YfVWyw.TDQ77Zc5ivCvGpd7Vbnt5XZOSoA");
+jano3.login("Nzk4NTQ0NjE2MzI0NDY0Njkw.YfVcOw.-I0cx1ocK8-vCmo6qJGvAqY5bsI");
 jano4.login("");
 jano5.login("");
 jano6.login("");
